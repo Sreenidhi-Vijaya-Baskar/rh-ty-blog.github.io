@@ -20,7 +20,7 @@ On Monday, 31st March, I started work experience at Red Hat. Although I was nerv
 
 I spent a lot of the day talking with new poeple and also got to look around the Red Hat building. One thing I enjoyed about the day was the fact that we had longer breaks. I think this was important to have on the first day to get used to working and learning for the next few days. 
 
-We also leraned about Agile and the importance of teamwork and communication. We put these skills to use by building potato heads based on a chosen team by our project manager. Our theme was Marvel. We were given two boxes with random items that we had to look though and source parts suitable for each team. Me and my team were quite lucky to have made five potato heads as we found many parts and pieces related to marvel to put together. 
+We also leraned about Agile, Scrum, and the importance of teamwork and communication. We put these skills to use by building potato heads based on a chosen team by our project manager. Our theme was Marvel. We were given two boxes with random items that we had to look though and source parts suitable for each team. Me and my team were quite lucky to have made five potato heads as we found many parts and pieces related to marvel to put together. 
 
 Overall, my first day in Red Hat was very fun. I had a great time.
 
@@ -35,17 +35,17 @@ Overall, my first day in Red Hat was very fun. I had a great time.
 
 ---
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://allvectorlogo.com/img/2021/12/github-logo-vector.png)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+On Tuesday we did our first stand up where we talked about what we did the previous day. This thouht us how teams communicate efficiently by giving updates on their progress each day. Next, we learned how to use GitHub and created our own accounts. Using this we logged in and wrote our very first blog on the previous work day. We also added pictures and finished up our blogs. This was a fun way to record the first day and recap what happened. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Afterwards we leraned to code usuing Python. Although I had learned how to use Python before this was a great way to remmeber the basics again and to expand on what I already knew about coding. We spent most of the day on Python. It was great to be able to code again.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Next we did a Cybersecurity workshp called "Cracking One Million Passwords" where we followed instructions given to us and cracked passwords. At first the passwords were easy to find, however the more you need to find the longer it takes to crack them. I got to the very last number: 1 million. However, I did not have enough time to wait and see the results. This was an excellent way to code and to learn the importance of password security.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+My second day in Red Hat was great. I did tasks I was familliar with and learned to grow the skills I already had on Coding. I am looking forward to what we will do over the week. 
+
+![Red Hat](https://cdn.hashnode.com/res/hashnode/image/upload/v1637422966499/jx6h36yHp.jpeg)
 
 
 ---
